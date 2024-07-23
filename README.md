@@ -33,6 +33,18 @@ This project aims to simplify the process of XYZ by providing a set of tools to 
 
 ### Future Features
 
+1. Model a straight pipe of constant diameter.
+  a. Code Notes
+    - Object Methods
+      - `get_diameter`
+      - `get_length`
+      - `get_origin_point`
+      - `get_termination_point`
+      - `get_circumference`
+      - `get_area` (this will eventually be variable over the length)
+
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
