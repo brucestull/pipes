@@ -6,6 +6,8 @@ Python Pipe Modeling Application
 
 ## Table of Contents
 - [About the Project](#about-the-project)
+  - [Current Features](#current-features)
+  - [Future Features](#future-features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -26,6 +28,10 @@ This project aims to simplify the process of XYZ by providing a set of tools to 
 - Feature 2
 - Feature 3
 ```
+
+### Current Features
+
+### Future Features
 
 ## Getting Started
 
