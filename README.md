@@ -1,11 +1,6 @@
 # Pipes
 
-Repository for Python Pipe Modeling Code
-
-Sure! Here is the entire `README.md` template in one code block for easy copying:
-
-```markdown
-# Project Name
+Python Pipe Modeling Application
 
 ![Project Logo](link-to-logo.png)
 
@@ -51,8 +46,6 @@ Example:
 
 Provide a step-by-step series of examples that tell users how to get a development environment running.
 
-Example:
-```
 1. Clone the repo
    ```sh
    git clone https://github.com/your-username/your-repo.git
@@ -71,14 +64,11 @@ Example:
 
 Explain how to use the project, with code examples where applicable.
 
-Example:
-```
 To run the development server:
    ```sh
    python manage.py runserver
    ```
 Open your browser and navigate to `http://localhost:8000` to see the application in action.
-```
 
 ## Contributing
 
@@ -125,6 +115,3 @@ Example:
 - [Another Resource](https://resource.com)
 - [Inspiration](https://inspiration.com)
 ```
-```
-
-Feel free to copy this template and customize it according to your project's requirements.
